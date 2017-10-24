@@ -3,7 +3,7 @@
 
 This is the developer repository of the Next Generation Ecosystem Experiment Tropics’ (NGEE-T) model: the Functionally Assembled Terrestrial Ecosystem Simulator (FATES).
 
-For more information on the FATES model, see our wiki:  https://github.com/NGEET/fates/wiki
+For more information on the FATES model, see our here:  https://github.com/NGEET/fates-release/wiki/FATES-release-background
 
 
 ## Important:
