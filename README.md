@@ -1,9 +1,11 @@
 # NGEE-T fates repository
 ------------------------------
 
-This is the developer repository of the Next Generation Ecosystem Experiment Tropics’ (NGEE-T) model: the Functionally Assembled Terrestrial Ecosystem Simulator (FATES).
+This is the public repository of the Next Generation Ecosystem Experiment Tropics’ (NGEE-T) model: the Functionally Assembled Terrestrial Ecosystem Simulator (FATES).
 
 For more information on the scientific background of FATES, see here:  https://github.com/NGEET/fates-release/wiki/FATES-release-background
+
+For access to the development repository for FATES, please contact Charlie Koven, Rosie Fisher (rfisher at ucar.edu) or Ryan Knox. The development repo is currently private but access for interested parties is typically granted very quickly. 
 
 
 ## Important:
